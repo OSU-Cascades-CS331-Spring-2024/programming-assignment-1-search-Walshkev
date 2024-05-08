@@ -1,0 +1,324 @@
+search type BFS
+Start city: brest
+Goal city: nice
+Path: ['brest', 'rennes', 'paris', 'dijon', 'lyon', 'avignon', 'marseille', 'nice']
+Cost: 1633
+Number of nodes visited: 18
+Number of frontier nodes : 1
+Number of expanded nodes : 17
+
+search type DLS
+Start city: brest
+Goal city: nice
+Path: ['brest', 'rennes', 'nantes', 'limoges', 'lyon', 'avignon', 'marseille', 'nice']
+Cost: 1616
+Number of nodes visited: 18
+Number of frontier nodes : 18
+Number of expanded nodes : 0
+
+search type UCS
+Start city: brest
+Goal city: nice
+Path: ['brest', 'rennes', 'nantes', 'bordeaux', 'toulouse', 'montpellier', 'avignon', 'marseille', 'nice']
+Cost: 1589
+Number of nodes visited: 20
+Number of frontier nodes : 1
+Number of expanded nodes : 19
+
+search type AStar
+Start city: brest
+Goal city: nice
+Path: ['brest', 'rennes', 'paris', 'dijon', 'lyon', 'avignon', 'marseille', 'nice']
+Cost: 1633
+Number of nodes visited: 21
+Number of frontier nodes : 1
+Number of expanded nodes : 20
+
+search type BFS
+Start city: montpellier
+Goal city: calais
+Path: ['montpellier', 'toulouse', 'limoges', 'paris', 'calais']
+Cost: 1224
+Number of nodes visited: 16
+Number of frontier nodes : 4
+Number of expanded nodes : 12
+
+search type DLS
+Start city: montpellier
+Goal city: calais
+Path: ['montpellier', 'toulouse', 'limoges', 'paris', 'calais']
+Cost: 1224
+Number of nodes visited: 9
+Number of frontier nodes : 16
+Number of expanded nodes : -7
+
+search type UCS
+Start city: montpellier
+Goal city: calais
+Path: ['montpellier', 'avignon', 'lyon', 'dijon', 'paris', 'calais']
+Cost: 1131
+Number of nodes visited: 19
+Number of frontier nodes : 1
+Number of expanded nodes : 18
+
+search type AStar
+Start city: montpellier
+Goal city: calais
+Path: ['montpellier', 'toulouse', 'limoges', 'paris', 'calais']
+Cost: 1224
+Number of nodes visited: 20
+Number of frontier nodes : 6
+Number of expanded nodes : 14
+
+search type BFS
+Start city: strasbourg
+Goal city: bordeaux
+Path: ['strasbourg', 'dijon', 'lyon', 'limoges', 'bordeaux']
+Cost: 1160
+Number of nodes visited: 15
+Number of frontier nodes : 6
+Number of expanded nodes : 9
+
+search type DLS
+Start city: strasbourg
+Goal city: bordeaux
+Path: ['strasbourg', 'nancy', 'paris', 'limoges', 'bordeaux']
+Cost: 1123
+Number of nodes visited: 11
+Number of frontier nodes : 14
+Number of expanded nodes : -3
+
+search type UCS
+Start city: strasbourg
+Goal city: bordeaux
+Path: ['strasbourg', 'nancy', 'paris', 'limoges', 'bordeaux']
+Cost: 1123
+Number of nodes visited: 17
+Number of frontier nodes : 1
+Number of expanded nodes : 16
+
+search type AStar
+Start city: strasbourg
+Goal city: bordeaux
+Path: ['strasbourg', 'dijon', 'lyon', 'limoges', 'bordeaux']
+Cost: 1160
+Number of nodes visited: 19
+Number of frontier nodes : 6
+Number of expanded nodes : 13
+
+search type BFS
+Start city: paris
+Goal city: grenoble
+Path: ['paris', 'dijon', 'lyon', 'grenoble']
+Cost: 625
+Number of nodes visited: 14
+Number of frontier nodes : 5
+Number of expanded nodes : 9
+
+search type DLS
+Start city: paris
+Goal city: grenoble
+Path: ['paris', 'limoges', 'lyon', 'grenoble']
+Cost: 917
+Number of nodes visited: 15
+Number of frontier nodes : 16
+Number of expanded nodes : -1
+
+search type UCS
+Start city: paris
+Goal city: grenoble
+Path: ['paris', 'dijon', 'lyon', 'grenoble']
+Cost: 625
+Number of nodes visited: 15
+Number of frontier nodes : 4
+Number of expanded nodes : 11
+
+search type AStar
+Start city: paris
+Goal city: grenoble
+Path: ['paris', 'dijon', 'lyon', 'grenoble']
+Cost: 625
+Number of nodes visited: 18
+Number of frontier nodes : 6
+Number of expanded nodes : 12
+
+search type BFS
+Start city: grenoble
+Goal city: paris
+Path: ['grenoble', 'lyon', 'limoges', 'paris']
+Cost: 918
+Number of nodes visited: 12
+Number of frontier nodes : 6
+Number of expanded nodes : 6
+
+search type DLS
+Start city: grenoble
+Goal city: paris
+Path: ['grenoble', 'lyon', 'dijon', 'paris']
+Cost: 621
+Number of nodes visited: 5
+Number of frontier nodes : 9
+Number of expanded nodes : -4
+
+search type UCS
+Start city: grenoble
+Goal city: paris
+Path: ['grenoble', 'lyon', 'dijon', 'paris']
+Cost: 621
+Number of nodes visited: 14
+Number of frontier nodes : 5
+Number of expanded nodes : 9
+
+search type AStar
+Start city: grenoble
+Goal city: paris
+Path: ['grenoble', 'lyon', 'dijon', 'paris']
+Cost: 621
+Number of nodes visited: 10
+Number of frontier nodes : 6
+Number of expanded nodes : 4
+
+search type BFS
+Start city: brest
+Goal city: grenoble
+Path: ['brest', 'rennes', 'paris', 'dijon', 'lyon', 'grenoble']
+Cost: 1214
+Number of nodes visited: 14
+Number of frontier nodes : 2
+Number of expanded nodes : 12
+
+search type DLS
+Start city: brest
+Goal city: grenoble
+Path: ['brest', 'rennes', 'nantes', 'limoges', 'lyon', 'grenoble']
+Cost: 1197
+Number of nodes visited: 15
+Number of frontier nodes : 16
+Number of expanded nodes : -1
+
+search type UCS
+Start city: brest
+Goal city: grenoble
+Path: ['brest', 'rennes', 'nantes', 'limoges', 'lyon', 'grenoble']
+Cost: 1197
+Number of nodes visited: 18
+Number of frontier nodes : 3
+Number of expanded nodes : 15
+
+search type AStar
+Start city: brest
+Goal city: grenoble
+Path: ['brest', 'rennes', 'paris', 'dijon', 'lyon', 'grenoble']
+Cost: 1214
+Number of nodes visited: 21
+Number of frontier nodes : 2
+Number of expanded nodes : 19
+
+search type BFS
+Start city: grenoble
+Goal city: brest
+Path: ['grenoble', 'lyon', 'limoges', 'nantes', 'rennes', 'brest']
+Cost: 1198
+Number of nodes visited: 18
+Number of frontier nodes : 3
+Number of expanded nodes : 15
+
+search type DLS
+Start city: grenoble
+Goal city: brest
+Path: ['grenoble', 'lyon', 'dijon', 'paris', 'rennes', 'brest']
+Cost: 1212
+Number of nodes visited: 12
+Number of frontier nodes : 18
+Number of expanded nodes : -6
+
+search type UCS
+Start city: grenoble
+Goal city: brest
+Path: ['grenoble', 'lyon', 'limoges', 'nantes', 'rennes', 'brest']
+Cost: 1198
+Number of nodes visited: 19
+Number of frontier nodes : 1
+Number of expanded nodes : 18
+
+search type AStar
+Start city: grenoble
+Goal city: brest
+Path: ['grenoble', 'lyon', 'limoges', 'nantes', 'rennes', 'brest']
+Cost: 1198
+Number of nodes visited: 23
+Number of frontier nodes : 4
+Number of expanded nodes : 19
+
+search type BFS
+Start city: nice
+Goal city: nantes
+Path: ['nice', 'marseille', 'avignon', 'lyon', 'limoges', 'nantes']
+Cost: 1262
+Number of nodes visited: 11
+Number of frontier nodes : 3
+Number of expanded nodes : 8
+
+search type DLS
+Start city: nice
+Goal city: nantes
+Path: ['nice', 'marseille', 'avignon', 'lyon', 'limoges', 'nantes']
+Cost: 1262
+Number of nodes visited: 10
+Number of frontier nodes : 13
+Number of expanded nodes : -3
+
+search type UCS
+Start city: nice
+Goal city: nantes
+Path: ['nice', 'marseille', 'avignon', 'montpellier', 'toulouse', 'bordeaux', 'nantes']
+Cost: 1232
+Number of nodes visited: 18
+Number of frontier nodes : 4
+Number of expanded nodes : 14
+
+search type AStar
+Start city: nice
+Goal city: nantes
+Path: ['nice', 'marseille', 'avignon', 'lyon', 'limoges', 'nantes']
+Cost: 1262
+Number of nodes visited: 16
+Number of frontier nodes : 5
+Number of expanded nodes : 11
+
+search type BFS
+Start city: caen
+Goal city: strasbourg
+Path: ['caen', 'calais', 'nancy', 'strasbourg']
+Cost: 989
+Number of nodes visited: 10
+Number of frontier nodes : 5
+Number of expanded nodes : 5
+
+search type DLS
+Start city: caen
+Goal city: strasbourg
+Path: ['caen', 'paris', 'dijon', 'strasbourg']
+Cost: 897
+Number of nodes visited: 13
+Number of frontier nodes : 13
+Number of expanded nodes : 0
+
+search type UCS
+Start city: caen
+Goal city: strasbourg
+Path: ['caen', 'paris', 'nancy', 'strasbourg']
+Cost: 759
+Number of nodes visited: 17
+Number of frontier nodes : 3
+Number of expanded nodes : 14
+
+search type AStar
+Start city: caen
+Goal city: strasbourg
+Path: ['caen', 'paris', 'nancy', 'strasbourg']
+Cost: 759
+Number of nodes visited: 11
+Number of frontier nodes : 5
+Number of expanded nodes : 6
+
